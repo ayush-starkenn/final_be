@@ -1,0 +1,288 @@
+10/27/2023, 5:41:03 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:41:27 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:41:28 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:41:28 PM [ERROR]: Error in deleting the device ReferenceError: userUUID is not defined
+10/27/2023, 5:45:32 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:46:18 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:48:38 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:49:27 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:50:34 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:51:34 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 5:52:57 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:05:21 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:07:28 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:10:19 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:11:37 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:11:37 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:11:37 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:11:37 PM [ERROR]: Error in deleting the device ReferenceError: userUUID is not defined
+10/27/2023, 6:16:59 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:17:00 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:17:00 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:17:00 PM [ERROR]: Error in deleting the device ReferenceError: userUUID is not defined
+10/27/2023, 6:21:22 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:37 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:37 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:37 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:37 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:40 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:40 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:40 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:41 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:41 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:42 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:42 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:42 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:43 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:43 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:43 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:21:44 PM [ERROR]: Error in deleting the alert by trigger_id, Error: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null 
+10/27/2023, 6:23:44 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:44 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:44 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:44 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:48 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:49 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:49 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:49 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:50 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:51 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:51 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:23:51 PM [ERROR]: Error in deleting the alert by trigger_id, Error: TypeError: Bind parameters must not contain undefined. To pass SQL NULL specify JS null 
+10/27/2023, 6:25:07 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:08 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:08 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:08 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:11 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:11 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:11 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:11 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:12 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:12 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:12 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:13 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:13 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:14 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:14 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:14 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:25:16 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:34:53 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:34:54 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:35:04 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:35:14 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:35:24 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:35:34 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:35:44 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:35:54 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:36:04 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:36:14 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:36:18 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:19 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:19 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:19 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:22 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:22 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:22 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:22 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:23 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:23 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:23 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:24 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:24 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:24 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:36:25 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:25 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:25 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:26 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:36:35 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:36:35 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:36:45 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:36:55 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:37:05 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:37:15 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:37:25 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:37:35 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:37:45 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:37:56 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:38:06 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:38:16 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:38:26 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:38:36 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:38:46 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:38:56 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:39:06 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:39:17 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:39:27 PM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/27/2023, 6:43:10 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:10 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:10 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:10 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:14 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:14 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:14 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:14 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:15 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:15 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:15 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:16 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:16 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:17 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:17 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:18 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:43:19 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:46 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:50 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:50 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:51 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:51 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:51 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:52 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:52 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:52 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:53 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:53 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:53 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:53 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:50:55 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:22 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:33 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:41 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:41 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:41 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:42 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:45 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:45 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:45 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:45 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:46 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:46 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:47 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:48 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:48 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:49 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:49 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/27/2023, 6:51:50 PM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:43 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:43 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:43 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:43 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:45 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:45 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:46 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:46 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:46 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:46 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:46 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:47 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:47 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:48 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:48 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:48 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:01:49 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:06:42 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:02 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:22 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:22 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:22 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:22 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:24 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:25 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:25 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:25 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:25 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:25 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:25 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:26 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:26 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:27 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:27 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:27 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:07:28 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:08:53 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:16 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:17 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:17 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:17 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:19 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:19 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:19 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:19 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:20 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:20 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:20 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:20 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:21 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:21 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:21 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:21 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:09:22 AM [ERROR]: Error in creating report: Incorrect arguments to mysqld_stmt_execute
+10/30/2023, 10:10:38 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:39 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:39 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:39 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:41 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:41 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:41 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:42 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:42 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:42 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:42 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:43 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:43 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:44 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:44 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:44 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:45 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:10:46 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 10:43:46 AM [ERROR]: Trip completion process failed! Error: No database selected
+10/30/2023, 10:43:46 AM [ERROR]: Enable to subscribe the topics Error: No database selected
+10/30/2023, 10:44:44 AM [ERROR]: Trip completion process failed! Error: No database selected
+10/30/2023, 10:44:44 AM [ERROR]: Enable to subscribe the topics Error: No database selected
+10/30/2023, 10:49:05 AM [ERROR]: Trip completion process failed! Error: No database selected
+10/30/2023, 10:49:05 AM [ERROR]: Enable to subscribe the topics Error: No database selected
+10/30/2023, 10:50:49 AM [ERROR]: Trip completion process failed! Error: No database selected
+10/30/2023, 10:50:49 AM [ERROR]: Enable to subscribe the topics Error: No database selected
+10/30/2023, 11:01:45 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:01:45 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:01:55 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:01:55 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:02:05 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:02:06 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:02:15 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:02:16 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:02:26 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:02:26 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:02:27 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:27 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:28 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:28 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:29 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:29 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:29 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:29 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:29 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:29 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:29 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:30 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:30 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:30 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:30 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:30 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:30 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:31 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:31 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:31 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:31 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:31 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:32 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:32 AM [ERROR]: notification error: Unknown column 'notification_uuid' in 'field list'
+10/30/2023, 11:02:36 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')
+10/30/2023, 11:02:36 AM [ERROR]: Something went wrong while completing the trip TypeError: Cannot read properties of null (reading '0')

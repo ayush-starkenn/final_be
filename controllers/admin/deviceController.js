@@ -177,6 +177,7 @@ const deleteDevice = async (req, res) => {
   const connection = await pool.getConnection();
   try {
     const { device_id } = req.params;
+    const {userUUID} = req.body;
 
     //creating current date and time
     let createdAt = new Date();
@@ -190,7 +191,7 @@ const deleteDevice = async (req, res) => {
     const [results] = await connection.execute(deleteQuery, [
       0,
       currentTimeIST,
-      req.body.userUUID,
+      userUUID,
       device_id,
     ]);
 
